@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="JOGL2">
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/jogl-all.jar" />
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/gluegen-rt.jar" />
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/jogl-java-src.zip" />
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/gluegen-java-src.zip" />
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/jogl-all-natives-linux-amd64.jar" />
+    <archive path="/home/whallas/IdeaProjects/MyPaint/lib/gluegen-rt-natives-linux-amd64.jar" />
+  </library>
+</eclipse-userlibraries>
+
